@@ -31,6 +31,12 @@ It features gradient UI elements, glowing effects, and a clean futuristic design
 
 ---
 
+## 🌐 Live Demo
+
+https://aether-landing-page.netlify.app/
+
+---
+
 ## 🚀 Getting Started
 
 Clone the repository:
