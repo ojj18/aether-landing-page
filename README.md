@@ -25,9 +25,9 @@ It features gradient UI elements, glowing effects, and a clean futuristic design
 
 ## 📸 Preview
 
-<img src="./assets/preview1.png" width="100%" />
-<img src="./assets/preview2.png" width="100%" />
-<img src="./assets/preview3.png" width="100%" />
+<img src="./image/preview1.png" width="100%" />
+<img src="./image/preview2.png" width="100%" />
+<img src="./image/preview3.png" width="100%" />
 
 ---
 
